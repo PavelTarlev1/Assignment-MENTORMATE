@@ -1,7 +1,16 @@
 # Assignment-MENTORMATE
-Application that checks meeting rooms’ schedules and finds open time slots that can be booked for meetings.
-Assignment 1
 
+Assignment 1
+Your first assignment is to record yourself answering the questions below in English. The video
+should be up to 5 minutes long.
+Questions:
+1. Introduce yourself to us.
+2. Why do you want to become part of our .NET internship program?
+3. Tell us something you are proud of? It could be either professional or personal
+achievement.
+
+
+Link:https://drive.google.com/drive/folders/1nTW69j3swBN9E1OXaEny4CEm3OhU1rIA?usp=sharing
 
 
 Assignment 2 
