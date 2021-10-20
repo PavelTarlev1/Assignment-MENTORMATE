@@ -10,7 +10,6 @@ Questions:
 achievement.
 
 
-Link:https://drive.google.com/drive/folders/1nTW69j3swBN9E1OXaEny4CEm3OhU1rIA?usp=sharing
 
 
 Assignment 2 
